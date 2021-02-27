@@ -98,7 +98,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
+  background-image: url("../images/world_conn.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
@@ -185,6 +185,10 @@ select {
     text-align: center;
     content: attr(data-th);
   }
+
+  #table-area td:first-letter {
+    text-transform:uppercase;
+   }
 
   .hero h1 {
     animation: smaller-title 1.2s forwards linear;
