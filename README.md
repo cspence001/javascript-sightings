@@ -1,6 +1,6 @@
 # javascript-challenge
 
-In this project, we take a dataset in the form of an array of javascript objects and within .js append a table to the html for web display. Our dataset containes a collection of key values for UFO sightings across Northern America. For each sighting, is listed within table,  date/time, city, state, country, shape, and a comment decscription. 
+In this project, we take a dataset in the form of an array of javascript objects and within .js append a table to the html for web display. Our dataset contains a collection of key values for UFO sightings across Northern America. For each sighting, is listed within table,  date/time, city, state, country, shape, and a comment decscription. 
 <br>
 <br>
 <b>UFO Level-1</b> Automatic Table and Date Search: In this configuration of the UFO Sighting dataset, a table is created and appended to the webpage with columns for each value field per sighting. The data can be filtered based on a date/time filter search on the page. 
