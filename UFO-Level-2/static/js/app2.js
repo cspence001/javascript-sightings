@@ -94,24 +94,6 @@ function filterData() {
 //  };
 
 
-  
-// var dropDown = d3.select("tbody").append("select")
-//                     .attr("name", "shape-list");
-                
-// var options = dropDown.selectAll("option")
-//                     .data(data) // eg., data = [ {'value': 10}, {'value': 11}, {'value': 12} ]
-//                     .enter()
-//                     .append("option");
-
-// options.text(function (d) { return d.value; })
-//         .attr("value", function (d) { return d.value; });
-
-
-// dropDown.on("change", data.filter(d => d.value === shape_input);
-
-
-
-
 
 // //combine city, states for address param
 // let address = data.map(function(location) {
