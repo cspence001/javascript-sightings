@@ -1,4 +1,4 @@
-# javascript-challenge
+# javascript-sightings
 
 In this project, we take a dataset in the form of an array of javascript objects and within .js append a table to the html for web display. Our dataset contains a collection of key values for UFO sightings across Northern America. For each sighting, is listed within table,  date/time, city, state, country, shape, and a comment description. 
 <br>
